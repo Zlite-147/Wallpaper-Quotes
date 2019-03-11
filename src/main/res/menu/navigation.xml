@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/ic_image_black_24dp"
+        android:title="Images" />
+
+    <item
+        android:id="@+id/navigation_gifts"
+        android:icon="@drawable/ic_text_fields_black_24dp"
+        android:title="Texts" />
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/ic_recent_actors_black_24dp"
+        android:title="Recents" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_trending_up_black_24dp"
+        android:title="Trending" />
+
+</menu>
